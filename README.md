@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Shamail9944
-- I am from Pakistan, currently serving in Military.
-- 👀 I’m interested in switching career as a Front end developer (Later full stack)
-- I have 90 % understadings of both Basic/ Advance HTML/ CSS/ JS and try to keep my self uptodate with latest trends from Social media
-- 🌱 I’m currently learning and exploring React / Sass / TS
-- 💞️ I’m looking to collaborate with people interested in learning by building unique and especially in-demand projects in domain of front end
-- 📫 Pl feel free to reach me and get my services (as free internee)
+- 👋 Hi, I’m Shamail Bin Wasif
+- I am from Islamabad, Pakistan
+- An Ex-Military man having a passion for coding.
+- Intutive and glaring web designs facinates me.
+- Currently learning/ adding latest and trending techs to my tech stack as a Front end developer.
+- Later, I also plan to convert myself into a Full stack developer.
+- 90 % understadings of Advance HTML5/ CSS3 (Tailwind & Bootstrap)/ JS ES / React JS / Next JS. 
+- Next on my list is Sass / TS / Express / Mongo DB / Node JS.
+- Love to keep my self uptodate with latest designing trend xxxxxxxxx
+- Working on and searching for Unique projects to showcase on my Github profile.
+- Pl feel free to reach me and get my services (as free internee).
