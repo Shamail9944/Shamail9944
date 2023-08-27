@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamail Bin Wasif</h1>
-<h3 align="center">A passionate frontend developer (MEAN/MERN) with 3+ yrs exp from Islamabad, Pakistan</h3>
+<h3 align="center">A passionate Web App Developer (MEAN/MERN) with 3+ yrs exp from Islamabad, Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamail9944&label=Profile%20views&color=0e75b6&style=flat" alt="shamail9944" /> </p>
 
 - 🔭 My tech stack includes both Angular and React. Numerous Web apps built by me are available on my GitHub link
-in profile to showcase my abilities e.g. (**E-commerce store, Spotify, Netflix & Youtube Clone**).
+in profile to showcase my abilities e.g. (**Point of Sale, E-commerce store, Spotify, Netflix & Youtube Clone**).
 
 - 🌱 I can work with both **Angular and React** while adhering to **SOLID coding guidelines**. I code using the latest **JS
 ES6, JSX, and TS**. For designing I can use any framework like Antdesign, MaterialUI, Tailwind, or simply manually
@@ -14,9 +14,8 @@ written CSS
 - 👯 I am passionate about building front-end solutions with the latest techs & trends and looking forward to more
 contributions with positive team.
 
-- 🤝 I’m looking for help with **Full Stack Development Projects**
-- 📫 How to reach me **Shamail130silverhawk@gmail.com**
-- 📄 With 3+ yrs of coding experience
+
+- 📫 Reach me **Shamail130silverhawk@gmail.com**
 - ⚡ A passion to code ( Teamwork, adaptive, Intutive and glaring Web designs, functionality implementation backedup by most suitable tech stack,  Up-to-Date with trending tools & methodologies )
 
 <h3 align="center">Connect with me:</h3>
