@@ -11,12 +11,9 @@ in profile to showcase my abilities e.g. (**Point of Sale, E-commerce store, Spo
 ES6, JSX, and TS**. For designing I can use any framework like Antdesign, MaterialUI, Tailwind, or simply manually
 written CSS
 
-- 👯 I am passionate about building front-end solutions with the latest techs & trends and looking forward to more
-contributions with positive team.
-
-
+- 👯 Passionate about building digital solutions with the latest techs & trends and looking forward to more contributions with positive team.
+- ⚡ What I deliver ( Teamwork, adaptive, Intutive and glaring Web designs, functionality implementation backedup by most suitable tech stack,  Up-to-Date with trending tools & methodologies )
 - 📫 Reach me **Shamail130silverhawk@gmail.com**
-- ⚡ A passion to code ( Teamwork, adaptive, Intutive and glaring Web designs, functionality implementation backedup by most suitable tech stack,  Up-to-Date with trending tools & methodologies )
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
