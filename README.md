@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamail9944&label=Profile%20views&color=0e75b6&style=flat" alt="shamail9944" /> </p>
 
-<img align="right" alt="Coding" width="350" height="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 - 🔭 My tech stack includes both Angular and React. Numerous Web apps built by me are available on my GitHub link
 in profile to showcase my abilities e.g. (**Point of Sale, E-commerce store, Spotify, Netflix & Youtube Clone**).
 - 🌱 I can work with both **Angular and React** while adhering to **SOLID coding guidelines**. I code using the latest **JS
